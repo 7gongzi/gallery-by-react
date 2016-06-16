@@ -4,4 +4,4 @@ one photo gallery
 第一个react项目
 
 happy everyday
-today is so beautiful
+next day is so beautiful
